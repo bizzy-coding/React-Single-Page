@@ -2,8 +2,6 @@
 
 This project is a simple single-page application built using React. It consists of a navigation bar and a list of fun facts about React. The project was created by following the [Scrimba React Course](https://v2.scrimba.com/learn-react-c0e) in April 2023.
 
-![Screenshot](https://drive.google.com/file/d/1uohR-CwHI4FzJjyi36mvujJKGeJb1UhI/view?usp=sharing) 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
